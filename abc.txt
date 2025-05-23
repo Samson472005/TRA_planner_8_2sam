@@ -1,0 +1,44 @@
+<section class="package" id="package">
+      <div class="container">
+
+        <p class="section-subtitle">Popular Packeges</p>
+
+        <h2 class="h2 section-title">Checkout Our Packeges</h2>
+
+        <p class="section-text">
+          Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium.
+          Sit ornare
+          mollitia tenetur, aptent.
+        </p>
+
+        <ul class="package-list">
+
+          <li>
+            <div class="package-card">
+
+              <figure class="card-banner">
+                <img decoding="async" src="./assets/images/packege-1.jpg" alt="Experience The Great Holiday On Beach" loading="lazy">
+              </figure>
+
+              <div class="card-content">
+
+                <h3 class="h3 card-title">Experience The Great Holiday On Beach</h3>
+
+                <p class="card-text">
+                  Laoreet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque,
+                  cras, aspernatur.
+                </p>
+
+                <ul class="card-meta-list">
+
+                  <li class="card-meta-item">
+                    <div class="meta-box">
+
+
+                      <p class="text">7D/6N</p>
+                    </div>
+                  </li>
+
+                  <li class="card-meta-item">
+                    <div class="meta-box">
+
